@@ -1,2 +1,1 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+If this dosent work you can contact me on discord fade_ftbl#0420
